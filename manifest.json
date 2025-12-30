@@ -1,0 +1,10 @@
+{
+	"id": "smart-chat-gemini",
+	"name": "Smart Chat - Gemini",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Google Gemini AI와 대화하며 현재 노트 및 전체 노트를 분석할 수 있는 스마트 비서 플러그인입니다.",
+	"author": "Nero-KK",
+	"authorUrl": "https://github.com/Nero-KK",
+	"isDesktopOnly": false
+}
