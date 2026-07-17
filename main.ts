@@ -29,7 +29,7 @@ interface GeminiChatSettings {
 
 const DEFAULT_SETTINGS: GeminiChatSettings = {
     apiKey: '',
-    modelName: 'gemini-1.5-flash-002'
+    modelName: 'fable'
 };
 
 const VIEW_TYPE_GEMINI_CHAT = 'smart-chat-gemini';
